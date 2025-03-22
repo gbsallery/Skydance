@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
     val skydance = Skydance(ip)
 //    skydance.zonePower(args[0].toInt(), args[1].toInt())
 //    skydance.brightness(args[0].toInt(), args[1].toInt())
-    skydance.zonePower(1, 1)
+    skydance.zonePower(1, 0)
 //    skydance.colour(2, 0x00, 0xff, 0x00)
 //    skydance.temperature(1, 0x00, 0x5f)
 //    skydance.brightness(4, 17, 40)
